@@ -18,3 +18,11 @@ This is a simple console-based Java application that connects to a MySQL databas
 ```sql
 CREATE DATABASE employee_db;
 USE employee_db;
+```
+
+🛠️ Technologies Used
+
+- **Java 17+**
+- **MySQL 9.x**
+- **JDBC Driver** (`mysql-connector-java`)
+- **IDE**: VS Code
